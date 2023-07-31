@@ -42,11 +42,11 @@ This is how it looks after a successful installaion.
 ![Putty 4 (Successful Tpot Installation)](https://github.com/MMease/HoneyPot/assets/42321472/e4851460-1153-45e9-8c56-27a27cbf56e6)
 
 
-This show the user interface for the HoneyPot. It has several different options that gives different interfaces and Information.
+This shows the user interface for the HoneyPot. It has several different options that gives different interfaces and Information.
 
 ![Tpot interface](https://github.com/MMease/HoneyPot/assets/42321472/02c0b641-f966-4f97-a1f5-b409285e3137)
 
-This shows is a representation of different attacks on a live map.
+This shows us a representation of different attacks on a live map.
 
 ![Tpot elastic live map attack](https://github.com/MMease/HoneyPot/assets/42321472/19f4aa09-90f0-4b2a-a649-84a22fd3344c)
 
